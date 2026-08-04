@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/.build/x86_64-unknown-linux-gnu/debug/SekibanSwiftTests.build/master.swiftdeps"
+  },
+  "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/Tests/SekibanSwiftTests/SekibanSwiftTests.swift": {
+    "dependencies": "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/.build/x86_64-unknown-linux-gnu/debug/SekibanSwiftTests.build/SekibanSwiftTests.d",
+    "object": "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/.build/x86_64-unknown-linux-gnu/debug/SekibanSwiftTests.build/SekibanSwiftTests.swift.o",
+    "swiftmodule": "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/.build/x86_64-unknown-linux-gnu/debug/SekibanSwiftTests.build/SekibanSwiftTests~partial.swiftmodule",
+    "swift-dependencies": "/__w/SekibanWasmRuntime/SekibanWasmRuntime/artifacts/sekiban-swift-mirror/tree/.build/x86_64-unknown-linux-gnu/debug/SekibanSwiftTests.build/SekibanSwiftTests.swiftdeps"
+  }
+}
